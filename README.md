@@ -34,7 +34,8 @@ Abra seu terminal ou prompt de comando e clone o projeto do GitHub:
     pip install Django
     python manage.py runserver
 
-5. Acessar o Projeto
+
+## Acessar o Projeto
 
 Após rodar o comando, o servidor estará ativo.
 
